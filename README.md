@@ -1,6 +1,6 @@
 # Instructions to Run Backend, Database, and Frontend with Docker
 
-This guide provides step-by-step instructions to build and run the backend, database (SQLite), and frontend containers using Docker.
+This guide provides step-by-step instructions to build and run the backend, database (SQLite) and containers using Docker.
 
 ---
 
